@@ -1,3 +1,37 @@
 body{
-    background-color: black;
+    background-color: aliceblue;
+ 
+}
+header{
+    text-align: center;
+    background-color: darkgreen;
+}
+.calculator{
+    background-color: azure;
+    min-width: 500px;
+    margin-top: 5px;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10%;
+
+}
+#screen{
+    background-color: beige;
+    border-color: coral;
+    border-width: 3px;
+    margin-bottom: 0.5%;
+    min-width: 10%;
+    color: blue;
+    font-weight: bold;
+    margin-left: 18%;
+
+}
+button{
+    color: black;
+    
+    
+}
+.button2{
+margin-left: 20%;
 }
